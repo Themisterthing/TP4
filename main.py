@@ -1,3 +1,6 @@
+#Thomas Parent
+#406
+#arcade TP4
 import arcade
 import random
 
